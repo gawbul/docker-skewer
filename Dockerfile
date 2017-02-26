@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM gawbul/docker-ubuntu1604-base
 
 RUN mkdir -p /opt/tools
 
